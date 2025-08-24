@@ -1,0 +1,4 @@
+#define RGBLIGHT_LAYERS
+#define RGBLIGHT_LIMIT_VAL 127
+#undef RGBLED_NUM
+#define RGBLED_NUM 23
